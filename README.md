@@ -1,4 +1,4 @@
-Repositório com tabelas de distribuição
+Repositório com tabelas de distribuições.
 
 
 
